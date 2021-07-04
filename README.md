@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hey, my name is Pedro and I'm a software developer based in Brazil.
+<!-- Hey, my name is Pedro and I'm a software developer based in Brazil. -->
 
 
 
